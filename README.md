@@ -1,2 +1,2 @@
 # Selection-Sort-Visualizer
-**epilepsy warning**
+\*\*epilepsy warning\*\*
