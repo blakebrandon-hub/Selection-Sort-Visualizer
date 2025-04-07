@@ -1,55 +1,47 @@
-# Selection Sort Visualizer
+# 🧠 Selection Sort Visualizer
 
-*Epilepsy Warning*: This visualization contains flashing elements that may not be suitable for individuals with photosensitive epilepsy.
+**⚠️ Epilepsy Warning:** This visualization contains flashing elements and may not be suitable for individuals with photosensitive epilepsy.
 
-![viz](https://user-images.githubusercontent.com/50201165/224692013-e80f186a-4a3d-48a7-939f-0afc67c67e7c.png)
+A Python project that visually demonstrates the Selection Sort algorithm step by step.
 
-## Overview
+## 🚀 How to Run
 
-This project provides a visual representation of the selection sort algorithm, illustrating how it processes and sorts an array step by step.
+1. **Clone the Repository:**
 
-## Features
+   ```bash
+   git clone https://github.com/blakebrandon-hub/Selection-Sort-Visualizer.git
+   cd Selection-Sort-Visualizer
+   ```
 
-- **Visual Representation**: Observe the selection sort algorithm as it operates on an array.
-- **Step-by-Step Execution**: Follow each iteration and swap performed by the algorithm.
-- **Educational Tool**: Ideal for those learning about sorting algorithms and their mechanics.
+2. **Install Dependencies:**
 
-## Prerequisites
+   Ensure you have `pygame` installed. If not, install it using:
 
-Ensure you have the following installed:
+   ```bash
+   pip install pygame
+   ```
 
-- Python 3.x
-- Pygame library
+3. **Run the Visualizer:**
 
-To install Pygame, run:
+   ```bash
+   python visualizer.py
+   ```
 
+   A window will open, displaying the selection sort process.
 
-pip install pygame
+## 🧪 How It Works
 
-## How to Run ##
-  1. Clone the repository
+- **Array Generation:** Creates an array of random values to be sorted.
+- **Selection Sort Algorithm:** Highlights the current minimum value and distinguishes elements being compared.
+- **Animations:** Swaps are animated to show the movement of elements, providing a clear understanding of the sorting process.
 
-  git clone https://github.com/blakebrandon-hub/Selection-Sort-Visualizer.git
-  cd Selection-Sort-Visualizer
+## 🛠️ Technologies Used
 
-  2. Run The visualizer
+- **Programming Language:** Python
+- **Library:** Pygame for visualization
 
-  python visualizer.py
+## 📜 License
 
-  The visualization window will open, displaying the selection sort process.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the `LICENSE` file for details.
 
-  How It Works
-The visualizer creates an array of random values and sorts them using the selection sort algorithm. During the process:
-
-The current minimum value is highlighted.
-
-Elements being compared are visually distinguished.
-
-Swaps are animated to show the movement of elements.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-
-
-
+Built by [Blake Brandon](https://github.com/blakebrandon-hub)
