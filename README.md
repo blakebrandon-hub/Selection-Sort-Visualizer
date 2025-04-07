@@ -23,17 +23,17 @@ Ensure you have the following installed:
 
 To install Pygame, run:
 
-```bash
+
 pip install pygame
 
 ## How to Run ##
   1. Clone the repository
-  ```bash
+
   git clone https://github.com/blakebrandon-hub/Selection-Sort-Visualizer.git
   cd Selection-Sort-Visualizer
 
   2. Run The visualizer
-  ```bash
+
   python visualizer.py
 
   The visualization window will open, displaying the selection sort process.
