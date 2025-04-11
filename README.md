@@ -4,6 +4,8 @@
 
 A Python project that visually demonstrates the Selection Sort algorithm step by step.
 
+![sort](https://github.com/user-attachments/assets/d859bb7f-bfaa-4b08-bbaf-0d20f62cd0ff)
+
 ## 🚀 How to Run
 
 1. **Clone the Repository:**
